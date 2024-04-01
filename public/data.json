@@ -1,0 +1,110 @@
+  [
+    {
+      "estate_title": "Luxury Villa with Ocean View",
+      "id": 1,
+      "segment_name": "Single-family homes",
+      "description": "Beautiful villa with breathtaking ocean view, perfect for a luxurious lifestyle.",
+      "price": 1500000,
+      "status": "sale",
+      "area": "4000 sqft",
+      "location": "Malibu, California",
+      "facilities": [{"livingRoom": 2}, {"BedRoom": 4}, {"pool": 1}],
+      "img": "https://i.ibb.co/PZsLNhP/home-1.jpg"
+    },
+    {
+      "estate_title": "Cozy Apartment in Downtown",
+      "id": 2,
+      "segment_name": "Apartments",
+      "description": "Comfortable apartment located in the heart of the city, close to all amenities.",
+      "price": 2000,
+      "status": "rent",
+      "area": "800 sqft",
+      "location": "New York City, New York",
+      "facilities": [{"livingRoom": 1}, {"BedRoom": 2}],
+      "img": "https://i.ibb.co/7X0Rd1x/home-2.jpg"
+    },
+    {
+      "estate_title": "Spacious Family Home",
+      "id": 3,
+      "segment_name": "Senior living ",
+      "description": "Large family home with ample space for gatherings and entertainment.",
+      "price": 850000,
+      "status": "sale",
+      "area": "3000 sqft",
+      "location": "Houston, Texas",
+      "facilities": [{"livingRoom": 2}, {"BedRoom": 5}, {"pool": 1}, {"garden": 1}],
+      "img": "https://i.ibb.co/wsTN5p4/home-3.jpg"
+    },
+    {
+      "estate_title": "Modern Loft with City View",
+      "id": 4,
+      "segment_name": "Vacation rentals",
+      "description": "Sleek and stylish loft apartment offering panoramic views of the city skyline.",
+      "price": 500000,
+      "status": "sale",
+      "area": "1500 sqft",
+      "location": "Los Angeles, California",
+      "facilities": [{"livingRoom": 1}, {"BedRoom": 3}, {"gym": 1}],
+      "img": "https://i.ibb.co/FV8mpSL/home-4.jpg"
+    },
+    {
+      "estate_title": "Charming Cottage by the Lake",
+      "id": 5,
+      "segment_name": "Apartments",
+      "description": "Quaint cottage nestled by the lake, perfect for a peaceful retreat.",
+      "price": 1200,
+      "status": "rent",
+      "area": "1000 sqft",
+      "location": "Seattle, Washington",
+      "facilities": [{"livingRoom": 1}, {"BedRoom": 2}],
+      "img": "https://i.ibb.co/JRYPzsd/home-5.jpg"
+    },
+    {
+      "estate_title": "Luxury Penthouse with Sky Deck",
+      "id": 6,
+      "segment_name": "Student housing",
+      "description": "Elegant penthouse offering unparalleled luxury and a private sky deck for stunning views.",
+      "price": 3000000,
+      "status": "sale",
+      "area": "5000 sqft",
+      "location": "Miami, Florida",
+      "facilities": [{"livingRoom": 3}, {"BedRoom": 4}, {"pool": 1}, {"gym": 1}],
+      "img": "https://i.ibb.co/KFFWvST/home-6.jpg"
+    },
+    {
+      "estate_title": "Sunny Beach House",
+      "id": 7,
+      "segment_name": "Town houses",
+      "description": "Bright and cheerful beach house just steps away from the sand and surf.",
+      "price": 1800,
+      "status": "rent",
+      "area": "1200 sqft",
+      "location": "Santa Monica, California",
+      "facilities": [{"livingRoom": 1}, {"BedRoom": 3}],
+      "img": "https://i.ibb.co/yRkpd2K/home-7.jpg"
+    },
+    {
+      "estate_title": "Mountain Retreat Cabin",
+      "id": 8,
+      "segment_name": "Vacation rentals",
+      "description": "Cozy cabin nestled in the mountains, offering a peaceful escape from city life.",
+      "price": 1500,
+      "status": "rent",
+      "area": "900 sqft",
+      "location": "Asheville, North Carolina",
+      "facilities": [{"livingRoom": 1}, {"BedRoom": 2}],
+      "img": "https://i.ibb.co/FW6VHC5/home-8.jpg"
+    },
+    {
+      "estate_title": "Executive Townhouse",
+      "id": 9,
+      "segment_name": "Town houses",
+      "description": "Stylish townhouse designed for executives, featuring modern amenities and sophistication.",
+      "price": 750000,
+      "status": "sale",
+      "area": "2500 sqft",
+      "location": "San Francisco, California",
+      "facilities": [{"livingRoom": 2}, {"BedRoom": 3}, {"gym": 1}],
+      "img": "https://i.ibb.co/FW6VHC5/home-9.jpg"
+    }
+]
